@@ -17,13 +17,19 @@ gcc -pthread threads.c -o threads
 
 Muestre los tiempos observados indicando el argumento de entrada que usó para la medición de los tiempos.
 Tiempos de Puertas antes y despues del ciclo for para un argumento de 100:
+
 163 clocks
+
 167 clocks
+
 170 clocks
 
 Tiempos de las Puertas dentro del ciclo for para un argumento de 100:
+
 171 clocks
+
 172 clocks
+
 173 clocks
  
 Por favor dé una explicación de los tiempos observados, 
